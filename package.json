@@ -32,7 +32,7 @@
     "jpeg-js": "^0.3.4",
     "mime": "^2.4.0",
     "pngjs": "^3.3.3",
-    "yargs": "^13.2.2"
+    "yargs": "13.2.2"
   },
   "devDependencies": {
     "cloc": "^2.4.0",
